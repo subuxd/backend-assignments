@@ -1,0 +1,14 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.list-main{
+    margin: 10px;
+    background-color: black;
+}
+
+.list-items{
+    text-align: center;
+    background-color: pink;
+    color: black;
+}
