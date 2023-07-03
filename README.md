@@ -10,3 +10,8 @@
 1. Create an npm project and install Express.js (also install Nodemon).
 2. Create an Express.js app that funnels the requests through 2 middleware functions that log. something to the console and return one response.
 3. Handle requests to "/" and "/users" such that each request only has one handler/middleware that does something with it (e.g. send a dummy response).
+
+# Assignment 3
+1. Create an npm project and install Express.js (also install Nodemon).
+2. Create an Express.js app that serves two HTML files for "/" and "/users".
+3. Add some static .css files to your project that should be required by at least one of your HTML files.
